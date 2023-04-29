@@ -26,12 +26,16 @@ Mono app provides users with convenient features in managing money for expenses/
 
 # Screenshoot
 
-![Introduce](screenshoot/introduce.jpg)
-![Input](screenshoot/input.jpg)
-![Calendar](screenshoot/calendar.jpg)
-![Reports](screenshoot/reports.jpg)
-![Currency](screenshoot/currency.jpg)
-![Reminder](screenshoot/reminder.jpg)
+<p float="left" align="center">
+  <img src="screenshoot/introduce.jpg" alt="Introduce" width="32%" />
+  <img src="screenshoot/input.jpg" alt="Input" width="32%" />
+  <img src="screenshoot/reports.jpg" alt="Reports" width="32%" />
+</p>
+<p float="left" align="center">
+  <img src="screenshoot/calendar.jpg" alt="Calendar" width="32%" />
+  <img src="screenshoot/currency.jpg" alt="Currency" width="32%" />
+  <img src="screenshoot/reminder.jpg" alt="Reminder" width="32%" />
+</p>
 
 ## Requirement
 
